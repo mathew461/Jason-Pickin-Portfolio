@@ -1,10 +1,12 @@
 import React from "react";
+import Header from '../components/Header'
 
 
 const IndexPage = () => {
   return (
     <div>
-      <p>Hello! My name is Nick</p>
+      <Header />
+      <p>Hello! My name is Pickin</p>
     </div>
   )
 }
